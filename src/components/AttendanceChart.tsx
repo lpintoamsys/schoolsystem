@@ -81,7 +81,7 @@ const AttendanceChart = () => {
           />
           <Bar
             dataKey="absent"
-            fill="coral"
+            fill="lightgreen"
             radius={[8, 8, 0, 0]}
             barSize={30}
           />
